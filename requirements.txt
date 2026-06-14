@@ -1,0 +1,6 @@
+streamlit
+groq
+pdfplumber
+duckduckgo-search
+python-dotenv
+pandas
